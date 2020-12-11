@@ -1,4 +1,6 @@
 # creationofCE
+
+This sample implemntion for Compute engine instance for GCP
 By GUI
 In the Navigation menu (Navigation menu), click Compute Engine > VM instances.
 Click Create.
